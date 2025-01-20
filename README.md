@@ -23,4 +23,5 @@
 <h3 align="center">Connect with me: 🤝</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dhanushiya-srinivasan-b57707290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhanushiya Srinivasan" height="30" width="40" /></a>
+<a href="mailto:dhanush.srini11@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40"></a>
 </p>
