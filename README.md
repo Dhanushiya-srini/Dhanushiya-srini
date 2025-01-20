@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanushiya S</h1>
 <h3 align="center"> About Me 🙋</h3>
 <h3 align="center">BE-CSE student with strong analytical and problem-solving abilities. Passionate about exploring emerging technologies and industry trends, with a commitment to continuous learning and leveraging skills to contribute to impactful and innovative solutions.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanushiya-srini&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushiya-srini" /> </p>
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500"> </p>
+<br><br>
 <h5 align="center">
 <br>  
  🌱 I’m currently learning **java programming**<br>
