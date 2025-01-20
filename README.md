@@ -22,6 +22,5 @@
 <br>
 <h3 align="center">Connect with me: 🤝</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dhanushiya srinivasan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"> 
-<a href="https://www.hackerrank.com/dhanushiya s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushiya s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Dhanushiya Srinivasan-bbaa3928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elango kannan" height="30" width="40" /></a>
 </p>
