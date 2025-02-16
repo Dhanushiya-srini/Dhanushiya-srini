@@ -18,7 +18,7 @@
 <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhanushiya-srini&theme=blueberry" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhanushiya-srini&theme=blueberry" height="180em" /></p>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanushiya-srini&theme=blueberry" alt="Dhanushiya-srini" /></p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushiya-srini&theme=chartreuse-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushiya-srini&theme=github-dark"/>
 <br>
 <h3 align="center">Connect with me: 🤝</h3>
 <p align="center">
