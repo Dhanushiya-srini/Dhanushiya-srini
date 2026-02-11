@@ -22,7 +22,7 @@
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 🛠 Tools & Platforms
